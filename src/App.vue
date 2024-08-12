@@ -16,7 +16,7 @@ import { RouterLink, RouterView } from 'vue-router'
         <router-link to="/contectus">contectus</router-link>
       </li>
     </ul>
-    <h1>Hello</h1>
+    <h1>Hello01</h1>
   </div>
   <RouterView />
 </template>
