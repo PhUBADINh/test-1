@@ -17,6 +17,7 @@ import { RouterLink, RouterView } from 'vue-router'
       </li>
     </ul>
     <h1>3156454565646</h1>
+    <h1>3156454565646</h1>
   </div>
   <RouterView />
 </template>
